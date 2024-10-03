@@ -6,7 +6,7 @@
 ## Read-Only Files:
 - src/test/*
 - website/*
-- src/main/java/com/hackerrank/selenium/server/*
+- src/main/java/com/selenium/server/*
 
 ## Commands
 - run: 
